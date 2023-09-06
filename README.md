@@ -7,9 +7,7 @@
 - 💞️ I’m looking to collaborate on computer vision.
   
 - 📫 How to reach me:
-  
         - My personal site on drawings and writings: www.kaddrane.com
-  
         - Linkedin: https://www.linkedin.com/in/benoitvanbogaert/
 
 <!---
